@@ -55,7 +55,7 @@ export default function Login() {
       </main>
       <footer className="flex-shrink-0 px-4 py-6 text-sm text-center text-base-500 dark:text-invert-500">
         <p>
-          &copy; 2020-{new Date().getFullYear()}
+          &copy; 2022-{new Date().getFullYear()}
           {' Made by '}
           <a
             href="https://www.instagram.com/lanskabamedia/"
